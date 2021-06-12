@@ -11,13 +11,13 @@ This repository will contain my work from the Master Algorithmic Programming Tec
 #Table Of Content
 * Week-3 (pdf)
   * Greedy Algorithm
-    * Money Change
-    * Maximum Value of the Loot
-    * Car Fueling
-    * Maximum Advertisement Revenue
-    * Collecting Signatures
-    * Maximum Number of Prizes
-    * Maximum Salary
+    1. Money Change
+    2. Maximum Value of the Loot
+    3. Car Fueling
+    4. Maximum Advertisement Revenue
+    5. Collecting Signatures
+    6. Maximum Number of Prizes
+    7. Maximum Salary
 * Week 4 (pdf)
     
     
