@@ -9,16 +9,16 @@ This repository will contain my work from the Master Algorithmic Programming Tec
 >Through Genome Assembly culminating project at the end of the Specialization, you'll learn how to assemble genomes from millions of short pieces and how algorithms fuel recent >developments in personalized medicine.
 
 #Table Of Content
-*Week-3 (pdf)
-  *Greedy Algorithm
-    *Money Change
-    *Maximum Value of the Loot
-    *Car Fueling
-    *Maximum Advertisement Revenue
-    *Collecting Signatures
-    *Maximum Number of Prizes
-    *Maximum Salary
-*Week 4 (pdf)
+* Week-3 (pdf)
+  * Greedy Algorithm
+    * Money Change
+    * Maximum Value of the Loot
+    * Car Fueling
+    * Maximum Advertisement Revenue
+    * Collecting Signatures
+    * Maximum Number of Prizes
+    * Maximum Salary
+* Week 4 (pdf)
     
     
     
