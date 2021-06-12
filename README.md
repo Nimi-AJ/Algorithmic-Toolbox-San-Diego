@@ -1,4 +1,4 @@
-# :rocket Algorithmic-Toolbox-San-Diego
+# :rocket: Algorithmic-Toolbox-San-Diego
 This repository will contain my work from the Master Algorithmic Programming Techniques Specialization that was created by UC San Diego and delivered through Coursera. I will be implementing solutions in Javascript.
 
 #About This Specialization
@@ -13,7 +13,7 @@ This repository will contain my work from the Master Algorithmic Programming Tec
   * Greedy Algorithm
     1. Money Change
     2. Maximum Value of the Loot
-    3. Car Fueling [x]
+    3. Car Fueling - [x]
     4. Maximum Advertisement Revenue
     5. Collecting Signatures
     6. Maximum Number of Prizes
