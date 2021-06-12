@@ -14,7 +14,7 @@ This repository will contain my work from the Master Algorithmic Programming Tec
     1. Money Change
     2. Maximum Value of the Loot
     3. - [x] Car Fueling  
-    4. Maximum Advertisement Revenue
+    4. - [x] Maximum Advertisement Revenue
     5. Collecting Signatures
     6. Maximum Number of Prizes
     7. Maximum Salary
